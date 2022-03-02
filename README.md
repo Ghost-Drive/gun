@@ -201,12 +201,3 @@ docker run -p 8765:8765 username/gun:git
 
 Then visit [http://localhost:8765](http://localhost:8765) in your browser.
 
-## License
-
-Designed with ♥ by Mark Nadal, the GUN team, and many amazing contributors.
-
-Openly licensed under [Zlib / MIT / Apache 2.0](https://github.com/amark/gun/blob/master/LICENSE.md).
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Famark%2Fgun.svg?size=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Famark%2Fgun?ref=badge_large)
-
-[YouTube](https://www.youtube.com/channel/UCQAtpf-zi9Pp4__2nToOM8g) . [Twitter](https://twitter.com/marknadal)

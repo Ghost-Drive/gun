@@ -1,7 +1,7 @@
 
 ## Quickstart
 
-GUN is *super easy* to get started with:
+GhostDrive running on GUN
 
  - Try the [interactive tutorial](https://gun.eco/docs/Todo-Dapp) in the browser (**5min** ~ average developer).
  - Or `npm install gun` and run the examples with `cd node_modules/gun && npm start` (**5min** ~ average developer).
